@@ -1,3 +1,3 @@
 # testing-repository
 
-New pull request test
+New pull request
